@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#app {
+  font-weight: normal;
+}
+
+header {
+  font-size: 2em;
+  color: white;
+  margin-bottom: 20px;
+  background-color: #f18900;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+.componente{
+  background-color: #424242;
+  padding: 20px;
+  color: white;
+  margin: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btt {
+  background-color: #ffae00;
+  color: white;
+  border: none;
+  padding: 20px;
+  margin: 10px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
